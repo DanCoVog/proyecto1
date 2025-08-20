@@ -1,6 +1,6 @@
 'use client'
 
-import Profile from "@/app/components/Profile";
+import Profile from "@/components/Profile";
 
 export default function Home() {
 
